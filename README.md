@@ -1,5 +1,3 @@
-DISCLAIMER : OUR TOOLS ARE FOR EDUCATIONAL PURPOSES ONLY. DON'T USE THEM FOR ILLEGAL ACTIVITIES. YOU ARE THE ONLY RESPONSABLE FOR YOUR ACTIONS! OUR TOOLS ARE OPEN SOURCE WITH NO WARRANTY AND AS ARE.
-
 # Objective:
 The purpose of this project is to understand how a programming of a software is done in
 systematic manner and gain knowledge about software engineering and cybersecurity.
